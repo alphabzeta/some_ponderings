@@ -1,3 +1,9 @@
+---
+layout: home
+---
+
+
+Everything I write will appear below:
 April 2026
 ---------------------------------------------------------------------------------------------
 I will start with optimism though I will share some dark days of my life as well in the upcoming thoughts.
