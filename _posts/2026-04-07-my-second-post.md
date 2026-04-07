@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Grain of Optimism"
-date: 2026-04-07
+date: 2026-04
 ---
 
 I will start with optimism though I will share some dark days of my life as well in the upcoming thoughts. So I wrote the below thoughts some years ago.
