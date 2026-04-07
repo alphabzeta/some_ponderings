@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Secret Journey"
+title: "A Grain of Optimism"
 date: 2026-04-07
 ---
 
