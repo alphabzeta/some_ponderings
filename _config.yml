@@ -1,3 +1,7 @@
 title: "The Midnight Journal"
 author: "Optopessimist"
 email: "alphabzeta@proton.me"
+
+header_pages:
+  - about.md
+  - contact.md
